@@ -1,0 +1,21 @@
+.banner-section {
+    position: relative;
+    header {
+        position: absolute;
+        top: 0;
+        z-index: 1;
+        background: rgba(0, 142, 57, 0.87);
+        color: #fff;
+        padding: 1rem;
+    }
+}
+
+.category-section {
+    margin-top: 3rem;
+    background: #fff;
+    h2 {
+        padding: 1rem;
+        background: #f5f5f5;
+        text-align: center;
+    }
+}

@@ -1,0 +1,22 @@
+.banner-section {
+    margin-bottom: 16px;
+    position: relative;
+    header {
+        position: absolute;
+        top: 0;
+        z-index: 1;
+        background: rgba(142, 0, 0, 0.87);
+        color: #fff;
+        padding: 1rem;
+    }
+}
+
+.movies-section {
+    margin-top: 3rem;
+    background: #fff;
+    h2 {
+        padding: 1rem;
+        background: #f5f5f5;
+        text-align: center;
+    }
+}
